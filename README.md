@@ -5,6 +5,7 @@
 -"SCREENSHOT_Multiple_year_stock_data_MBS_2019.jpg"  --> SCREENSHOT of "2019" TAB after VBA SCRIPTS applied
 
 -"SCREENSHOT_Multiple_year_stock_data_MBS_2020.jpg"  --> SCREENSHOT of "2020" TAB after VBA SCRIPTS applied
+
 ---------------------------------------------------------------
 
 -"VBA_CalculateYearlyData_MBS_230612.bas" 
@@ -17,6 +18,7 @@ On the same worksheet as the raw data, or on a new worksheet all columns were co
         total stock volume (2.5 points)
         yearly change ($) (2.5 points)
         percent change (2.5 points)
+
 ---------------------------------------------------------------
 
 -"VBA_FindGreatestData2_MBS_230612.bas"
