@@ -13,6 +13,7 @@
 -"VBA_CalculateYearlyData_MBS_230612.vbs" 
 
 --> RUN (either) above ^ SCRIPTS to CALCULATE the below tasks:
+
 Column Creation (10 points)
 On the same worksheet as the raw data, or on a new worksheet all columns were correctly created for:
         ticker symbol (2.5 points)
@@ -27,7 +28,8 @@ On the same worksheet as the raw data, or on a new worksheet all columns were co
 -"VBA_FindGreatestData2_MBS_230612.vbs"
 
 --> RUN (either) above ^ SCRIPTS to CALCULATE the below tasks:
-    All three of the following values are calculated correctly and displayed in the output:
+    
+All three of the following values are calculated correctly and displayed in the output:
         Greatest % Increase (5 points)
         Greatest % Decrease (5 points)
         Greatest Total Volume (5 points)
